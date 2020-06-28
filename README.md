@@ -13,4 +13,6 @@ Various agents (users and suppliers) were created using the <b>Java Agent Develo
 	• Ability to communicate between agents
 	• Competition system between different suppliers
 
-	In general, the system can manage the drug stocks of users, pharmacies and suppliers. Users must consume their medication according to their prescriptions and order medication from the pharmacy if necessary (small quantities in stock). In return, the pharmacy must ensure that it has stocks that meet users' needs and, if necessary, request suppliers.
+	In general, the system can manage the drug stocks of users, pharmacies and suppliers.
+	Users must consume their medication according to their prescriptions and order medication from the pharmacy if necessary (small quantities in stock). 
+	In return, the pharmacy must ensure that it has stocks that meet users' needs and, if necessary, request suppliers.
