@@ -1,4 +1,4 @@
-# Multi-Agent System - Pharmaceutical Environment
+# Multi-Agent System :: Pharmaceutical Environment
 
 Implementation of multi-agent systems in a pharmaceutical environment that enables communication between different agents by exchanging messages.
 
